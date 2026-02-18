@@ -3,7 +3,7 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-orange)
 [![Telegram](https://img.shields.io/badge/Telegram-alerts-2CA5E0)](https://t.me/lamer007)
 ![Monitoring](https://img.shields.io/badge/Type-Monitoring-purple)
-[![API](https://img.shields.io/badge/API-mempool.space-black)](https://mempool.space)
+[![API](https://img.shields.io/badge/API-REST-blue)](https://mempool.space)
 
 Track **incoming / outgoing** transactions for a Bitcoin address using **mempool.space** and receive **Telegram alerts** (personal chat + optional channel forward).
 
