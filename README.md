@@ -1,8 +1,8 @@
 # Bitcoin Wallet TX Tracker 🔎⚡️
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-orange)
-![Telegram](https://img.shields.io/badge/Telegram-alerts-2CA5E0)
-![API](https://img.shields.io/badge/API-mempool.space-black)
+[![Telegram](https://img.shields.io/badge/Telegram-alerts-2CA5E0)](https://t.me/lamer007)
+[![API](https://img.shields.io/badge/API-mempool.space-black)](https://mempool.space)
 
 Track **incoming / outgoing** transactions for a Bitcoin address using **mempool.space** and receive **Telegram alerts** (personal chat + optional channel forward).
 
